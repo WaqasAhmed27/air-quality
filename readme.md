@@ -23,7 +23,7 @@ between 2015 and 2020.
 ## How to Run
 1. Clone this repository:
     ```bash
-    git clone []()
+    git clone [https://github.com/WaqasAhmed27/air-quality.git](https://github.com/WaqasAhmed27/air-quality)
     cd air-quality
     ```
 
@@ -35,3 +35,4 @@ between 2015 and 2020.
 3. Ensure the 'city_day.csv' file is in the same directory as the notebook
 
 4. Open and run the notebook in Jupyter Notebook or VS code, etc
+
